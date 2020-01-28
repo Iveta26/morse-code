@@ -1,4 +1,4 @@
-Translates AH! Code to ASCII and vice versa had to be built using
+Translates AH! Code to ASCII and vice versa
 The system must be able to transmit the AH! Code by LED using blue LED if the 
 input was AH! Code and green LED if the input was ASCII. 
 The system must be able to respond to 4 commands: 
